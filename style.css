@@ -23,6 +23,15 @@ body {
     margin: 0;
 }
 
+.editors-picks {
+    position: absolute;
+    right: 130px;
+    background-image: url("EditorsPicks.png");
+    background-size: contain;
+    width: 221px;
+    height: 377px;
+}
+
 .header-credit {
     position: absolute;
     bottom: 0;
